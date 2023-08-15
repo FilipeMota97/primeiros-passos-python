@@ -6,4 +6,4 @@ try:
     else:
          print("O número é impar!")
 except:
-     print("Desculpe, O número digitado não é inteiro!")
+     print("Desculpe, O número digitado não é inteiro")
